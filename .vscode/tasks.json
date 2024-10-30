@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Icarus Verilog",
+            "type": "shell",
+            "command": "powershell.exe",
+            "args": [
+                "-File",
+                "${workspaceFolder}/src/run_all.ps1"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ]
+}
+
+
