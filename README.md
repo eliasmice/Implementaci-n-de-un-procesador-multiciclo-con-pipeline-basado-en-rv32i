@@ -14,7 +14,8 @@ Para el desarrollo de este proyecto 1, usted deberá guiarse por la documentaci�
 
 Usted desarrollará un procesador multiciclo con pipeline como el que muestra en la siguiente figura.
 
-![Diagrama de bloques para el procesador multiciclo con pipeline](https://github.com/TEC-EL3310/proyecto_final/blob/main/figs/diagram_pipeline.png?raw=true "Diagrama de bloques de un procesador multiciclo con pipeline basado en `rv32i`")
+![diagram_pipeline](https://github.com/user-attachments/assets/8b86e2c6-fa46-489d-a4e4-15db1ae1a9cf)
+
 
 
 Para este proyecto usted implementará, además de los bloques básicos que se encuentran en un procesador uniciclo, los siguientes bloques funcionales:
